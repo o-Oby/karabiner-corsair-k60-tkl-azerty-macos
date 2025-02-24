@@ -1,8 +1,8 @@
 {
-    "title": "Mapping Corsair K60 Pro TKL AZERTY for macOS",
+    "title": "Configuration Corsair K60 Pro TKL AZERTY pour macOS",
     "rules": [
         {
-            "description": "Custom mapping based on Excel file",
+            "description": "Configuration Corsair K60 Pro TKL AZERTY pour macOS",
             "manipulators": [
                 {
                     "type": "basic",
