@@ -1,0 +1,1 @@
+# karabiner-corsair-k60-tkl-azerty-macos
